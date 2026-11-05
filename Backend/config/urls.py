@@ -20,7 +20,7 @@ from django.urls import include, path
 
 def home_view(request):
  return HttpResponse(
-      "¡El backend de Django está corriendo correctamente en Railway!"
+      ""
   )
 
 urlpatterns = [

@@ -1,5 +1,5 @@
 const configUrl = {
-    base: 'http://127.0.0.1:8000/api/'
+    base: 'https://web-production-7eed1.up.railway.app/api/'
 }
 
 export default configUrl;
